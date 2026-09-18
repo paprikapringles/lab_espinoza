@@ -19,36 +19,36 @@
 1.  Which of the following is an inorganic compound?\
     A. Glucose\
     B. Protein\
-    C. Water\
+    > C. Water\
     D. Lipid
 
 2.  Organic molecules always contain:\
     A. Nitrogen\
-    B. Carbon and hydrogen\
+    > B. Carbon and hydrogen\
     C. Oxygen only\
     D. Sulfur
 
 3.  Carbon can form how many covalent bonds?\
     A. 2\
     B. 3\
-    C. 4\
+    > C. 4\
     D. 6
 
 4.  A molecular formula shows:\
     A. Exact bonding structure\
     B. Atom arrangement\
-    C. Types and numbers of atoms\
+    > C. Types and numbers of atoms\
     D. Bond angles
 
 5.  What type of bond involves shared electrons?\
     A. Ionic\
     B. Hydrogen\
-    C. Covalent\
+    > C. Covalent\
     D. Metallic
 
 6.  Isomers are molecules that:\
     A. Have different formulas\
-    B. Have same atoms but different arrangements\
+    > B. Have same atoms but different arrangements\
     C. Are always inorganic\
     D. Are always identical
 
@@ -56,41 +56,54 @@
     A. It has equal charge distribution\
     B. It contains hydrogen bonds only\
     C. Electrons are shared evenly\
-    D. Electrons are shared unevenly
+    > D. Electrons are shared unevenly
 
 8.  pH measures:\
     A. Oxygen levels\
-    B. Hydrogen ion concentration\
+    > B. Hydrogen ion concentration\
     C. Temperature\
     D. Salt concentration
 
 9.  A buffer functions to:\
     A. Increase pH rapidly\
     B. Neutralize all acids\
-    C. Resist changes in pH\
+    > C. Resist changes in pH\
     D. Eliminate hydrogen ions
 
 > **Short Answer (10)**
 
 11. Define an organic molecule.
+    has carbon and hydrogen
 
 12. What is a covalent bond?
+    shares electrons
 
 13. What is the difference between a molecular and structural formula?
+    molecular: written as CH4
+    Structural: visual representation of the molecule
 
 14. What does the formula C₂H₆O tell you about a molecule?
+    organic molecule, ethanol (if we look at it)
 
 15. What is a functional group?
+    methyl, carboxyl, amino, (6 total groups)
 
 16. Explain what an isomer is.
+    same moleculular formula, diff structure and function(?)
 
 17. Why is water considered an excellent solvent?
+    it's polar -- dissolves many things except hydrophobic things
 
 18. Define cohesion and adhesion.
+    Water sticking to itself (cohesion)
+    Water sticking to other surfaces (adhesion)
 
 19. What is surface tension?
+    To break water's surface, you must break water's cohesion. 
 
 20. Why is pH important in living organisms?
+    Can't have reaction occur if pH is imbalanced
+    
 
 > **Key Terms to Define**
 

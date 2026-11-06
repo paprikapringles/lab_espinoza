@@ -130,11 +130,11 @@ During this activity you will work in *pairs.*
 
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
-| Interphase | 251                   | 500             | 5           |
-| Prophase   | 224                   | 265             |             |
-| Metaphase  | 30                    | 40              |             |
-| Anaphase   | 16                    | 23              |             |
-| Telophase  | 8                     | 17              |             |
+| Interphase | 251                   | 500             | 59          |
+| Prophase   | 224                   | 265             | 31          |
+| Metaphase  | 30                    | 40              | 5           |
+| Anaphase   | 16                    | 23              | 3           |
+| Telophase  | 8                     | 17              | 2           |
 | Total      | 529                   | 845             | 100%        |
 
 ### **Calculating Mitotic Index**
